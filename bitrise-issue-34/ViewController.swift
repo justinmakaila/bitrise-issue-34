@@ -1,25 +1,28 @@
-//
-//  ViewController.swift
-//  bitrise-issue-34
-//
-//  Created by Justin Makaila on 1/23/17.
-//  Copyright © 2017 justinmakaila. All rights reserved.
-//
-
 import UIKit
+import AKPickerView
+import Alamofire
+import AlamofireImage
+import CameraKit
+import CollapsableTable
+import CoreDataStack
+import Eureka
+import FLAnimatedImage
+import GraphQL
+import GraphQLMapping
+import KeychainAccess
+import libPhoneNumberiOS
+import Mixpanel
+import Moya
+import Permission
+import ReactiveCocoa
+import ReactiveMoya
+import ReactiveSwift
+import RemoteMapping
+import Result
+import Rswift
+import SVProgressHUD
+import SwiftyJSON
+import TTTAttributedLabel
 
-class ViewController: UIViewController {
 
-    override func viewDidLoad() {
-        super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
-    }
-
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
-    }
-
-
-}
-
+class ViewController: UIViewController { }

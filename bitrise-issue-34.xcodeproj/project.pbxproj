@@ -12,6 +12,30 @@
 		D00B66911E367F7D000016C7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D00B668F1E367F7D000016C7 /* Main.storyboard */; };
 		D00B66931E367F7D000016C7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D00B66921E367F7D000016C7 /* Assets.xcassets */; };
 		D00B66961E367F7D000016C7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D00B66941E367F7D000016C7 /* LaunchScreen.storyboard */; };
+		D00B66B61E368C7A000016C7 /* AKPickerView.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D00B669E1E368C7A000016C7 /* AKPickerView.framework */; };
+		D00B66B71E368C7A000016C7 /* Alamofire.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D00B669F1E368C7A000016C7 /* Alamofire.framework */; };
+		D00B66B81E368C7A000016C7 /* AlamofireImage.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D00B66A01E368C7A000016C7 /* AlamofireImage.framework */; };
+		D00B66B91E368C7A000016C7 /* CameraKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D00B66A11E368C7A000016C7 /* CameraKit.framework */; };
+		D00B66BA1E368C7A000016C7 /* CollapsableTable.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D00B66A21E368C7A000016C7 /* CollapsableTable.framework */; };
+		D00B66BB1E368C7A000016C7 /* CoreDataStack.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D00B66A31E368C7A000016C7 /* CoreDataStack.framework */; };
+		D00B66BC1E368C7A000016C7 /* Eureka.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D00B66A41E368C7A000016C7 /* Eureka.framework */; };
+		D00B66BD1E368C7A000016C7 /* FLAnimatedImage.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D00B66A51E368C7A000016C7 /* FLAnimatedImage.framework */; };
+		D00B66BE1E368C7A000016C7 /* GraphQL.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D00B66A61E368C7A000016C7 /* GraphQL.framework */; };
+		D00B66BF1E368C7A000016C7 /* GraphQLMapping.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D00B66A71E368C7A000016C7 /* GraphQLMapping.framework */; };
+		D00B66C01E368C7A000016C7 /* KeychainAccess.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D00B66A81E368C7A000016C7 /* KeychainAccess.framework */; };
+		D00B66C11E368C7A000016C7 /* libPhoneNumberiOS.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D00B66A91E368C7A000016C7 /* libPhoneNumberiOS.framework */; };
+		D00B66C21E368C7A000016C7 /* Mixpanel.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D00B66AA1E368C7A000016C7 /* Mixpanel.framework */; };
+		D00B66C31E368C7A000016C7 /* Moya.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D00B66AB1E368C7A000016C7 /* Moya.framework */; };
+		D00B66C41E368C7A000016C7 /* Permission.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D00B66AC1E368C7A000016C7 /* Permission.framework */; };
+		D00B66C51E368C7A000016C7 /* ReactiveCocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D00B66AD1E368C7A000016C7 /* ReactiveCocoa.framework */; };
+		D00B66C61E368C7A000016C7 /* ReactiveMoya.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D00B66AE1E368C7A000016C7 /* ReactiveMoya.framework */; };
+		D00B66C71E368C7A000016C7 /* ReactiveSwift.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D00B66AF1E368C7A000016C7 /* ReactiveSwift.framework */; };
+		D00B66C81E368C7A000016C7 /* RemoteMapping.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D00B66B01E368C7A000016C7 /* RemoteMapping.framework */; };
+		D00B66C91E368C7A000016C7 /* Result.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D00B66B11E368C7A000016C7 /* Result.framework */; };
+		D00B66CA1E368C7A000016C7 /* Rswift.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D00B66B21E368C7A000016C7 /* Rswift.framework */; };
+		D00B66CB1E368C7A000016C7 /* SVProgressHUD.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D00B66B31E368C7A000016C7 /* SVProgressHUD.framework */; };
+		D00B66CC1E368C7A000016C7 /* SwiftyJSON.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D00B66B41E368C7A000016C7 /* SwiftyJSON.framework */; };
+		D00B66CD1E368C7A000016C7 /* TTTAttributedLabel.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D00B66B51E368C7A000016C7 /* TTTAttributedLabel.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +46,30 @@
 		D00B66921E367F7D000016C7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D00B66951E367F7D000016C7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D00B66971E367F7D000016C7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D00B669E1E368C7A000016C7 /* AKPickerView.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AKPickerView.framework; path = Carthage/Build/iOS/AKPickerView.framework; sourceTree = SOURCE_ROOT; };
+		D00B669F1E368C7A000016C7 /* Alamofire.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Alamofire.framework; path = Carthage/Build/iOS/Alamofire.framework; sourceTree = SOURCE_ROOT; };
+		D00B66A01E368C7A000016C7 /* AlamofireImage.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AlamofireImage.framework; path = Carthage/Build/iOS/AlamofireImage.framework; sourceTree = SOURCE_ROOT; };
+		D00B66A11E368C7A000016C7 /* CameraKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CameraKit.framework; path = Carthage/Build/iOS/CameraKit.framework; sourceTree = SOURCE_ROOT; };
+		D00B66A21E368C7A000016C7 /* CollapsableTable.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CollapsableTable.framework; path = Carthage/Build/iOS/CollapsableTable.framework; sourceTree = SOURCE_ROOT; };
+		D00B66A31E368C7A000016C7 /* CoreDataStack.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreDataStack.framework; path = Carthage/Build/iOS/CoreDataStack.framework; sourceTree = SOURCE_ROOT; };
+		D00B66A41E368C7A000016C7 /* Eureka.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Eureka.framework; path = Carthage/Build/iOS/Eureka.framework; sourceTree = SOURCE_ROOT; };
+		D00B66A51E368C7A000016C7 /* FLAnimatedImage.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = FLAnimatedImage.framework; path = Carthage/Build/iOS/FLAnimatedImage.framework; sourceTree = SOURCE_ROOT; };
+		D00B66A61E368C7A000016C7 /* GraphQL.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GraphQL.framework; path = Carthage/Build/iOS/GraphQL.framework; sourceTree = SOURCE_ROOT; };
+		D00B66A71E368C7A000016C7 /* GraphQLMapping.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GraphQLMapping.framework; path = Carthage/Build/iOS/GraphQLMapping.framework; sourceTree = SOURCE_ROOT; };
+		D00B66A81E368C7A000016C7 /* KeychainAccess.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = KeychainAccess.framework; path = Carthage/Build/iOS/KeychainAccess.framework; sourceTree = SOURCE_ROOT; };
+		D00B66A91E368C7A000016C7 /* libPhoneNumberiOS.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = libPhoneNumberiOS.framework; path = Carthage/Build/iOS/libPhoneNumberiOS.framework; sourceTree = SOURCE_ROOT; };
+		D00B66AA1E368C7A000016C7 /* Mixpanel.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Mixpanel.framework; path = Carthage/Build/iOS/Mixpanel.framework; sourceTree = SOURCE_ROOT; };
+		D00B66AB1E368C7A000016C7 /* Moya.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Moya.framework; path = Carthage/Build/iOS/Moya.framework; sourceTree = SOURCE_ROOT; };
+		D00B66AC1E368C7A000016C7 /* Permission.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Permission.framework; path = Carthage/Build/iOS/Permission.framework; sourceTree = SOURCE_ROOT; };
+		D00B66AD1E368C7A000016C7 /* ReactiveCocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ReactiveCocoa.framework; path = Carthage/Build/iOS/ReactiveCocoa.framework; sourceTree = SOURCE_ROOT; };
+		D00B66AE1E368C7A000016C7 /* ReactiveMoya.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ReactiveMoya.framework; path = Carthage/Build/iOS/ReactiveMoya.framework; sourceTree = SOURCE_ROOT; };
+		D00B66AF1E368C7A000016C7 /* ReactiveSwift.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ReactiveSwift.framework; path = Carthage/Build/iOS/ReactiveSwift.framework; sourceTree = SOURCE_ROOT; };
+		D00B66B01E368C7A000016C7 /* RemoteMapping.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = RemoteMapping.framework; path = Carthage/Build/iOS/RemoteMapping.framework; sourceTree = SOURCE_ROOT; };
+		D00B66B11E368C7A000016C7 /* Result.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Result.framework; path = Carthage/Build/iOS/Result.framework; sourceTree = SOURCE_ROOT; };
+		D00B66B21E368C7A000016C7 /* Rswift.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Rswift.framework; path = Carthage/Build/iOS/Rswift.framework; sourceTree = SOURCE_ROOT; };
+		D00B66B31E368C7A000016C7 /* SVProgressHUD.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SVProgressHUD.framework; path = Carthage/Build/iOS/SVProgressHUD.framework; sourceTree = SOURCE_ROOT; };
+		D00B66B41E368C7A000016C7 /* SwiftyJSON.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SwiftyJSON.framework; path = Carthage/Build/iOS/SwiftyJSON.framework; sourceTree = SOURCE_ROOT; };
+		D00B66B51E368C7A000016C7 /* TTTAttributedLabel.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = TTTAttributedLabel.framework; path = Carthage/Build/iOS/TTTAttributedLabel.framework; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -29,6 +77,30 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D00B66CB1E368C7A000016C7 /* SVProgressHUD.framework in Frameworks */,
+				D00B66C11E368C7A000016C7 /* libPhoneNumberiOS.framework in Frameworks */,
+				D00B66BE1E368C7A000016C7 /* GraphQL.framework in Frameworks */,
+				D00B66B91E368C7A000016C7 /* CameraKit.framework in Frameworks */,
+				D00B66BC1E368C7A000016C7 /* Eureka.framework in Frameworks */,
+				D00B66C81E368C7A000016C7 /* RemoteMapping.framework in Frameworks */,
+				D00B66C01E368C7A000016C7 /* KeychainAccess.framework in Frameworks */,
+				D00B66C71E368C7A000016C7 /* ReactiveSwift.framework in Frameworks */,
+				D00B66C91E368C7A000016C7 /* Result.framework in Frameworks */,
+				D00B66C61E368C7A000016C7 /* ReactiveMoya.framework in Frameworks */,
+				D00B66BA1E368C7A000016C7 /* CollapsableTable.framework in Frameworks */,
+				D00B66B81E368C7A000016C7 /* AlamofireImage.framework in Frameworks */,
+				D00B66CD1E368C7A000016C7 /* TTTAttributedLabel.framework in Frameworks */,
+				D00B66B61E368C7A000016C7 /* AKPickerView.framework in Frameworks */,
+				D00B66C31E368C7A000016C7 /* Moya.framework in Frameworks */,
+				D00B66BD1E368C7A000016C7 /* FLAnimatedImage.framework in Frameworks */,
+				D00B66BB1E368C7A000016C7 /* CoreDataStack.framework in Frameworks */,
+				D00B66C51E368C7A000016C7 /* ReactiveCocoa.framework in Frameworks */,
+				D00B66B71E368C7A000016C7 /* Alamofire.framework in Frameworks */,
+				D00B66C41E368C7A000016C7 /* Permission.framework in Frameworks */,
+				D00B66CC1E368C7A000016C7 /* SwiftyJSON.framework in Frameworks */,
+				D00B66C21E368C7A000016C7 /* Mixpanel.framework in Frameworks */,
+				D00B66CA1E368C7A000016C7 /* Rswift.framework in Frameworks */,
+				D00B66BF1E368C7A000016C7 /* GraphQLMapping.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -54,6 +126,7 @@
 		D00B668A1E367F7D000016C7 /* bitrise-issue-34 */ = {
 			isa = PBXGroup;
 			children = (
+				D00B669D1E368C45000016C7 /* dependencies */,
 				D00B668B1E367F7D000016C7 /* AppDelegate.swift */,
 				D00B668D1E367F7D000016C7 /* ViewController.swift */,
 				D00B668F1E367F7D000016C7 /* Main.storyboard */,
@@ -62,6 +135,37 @@
 				D00B66971E367F7D000016C7 /* Info.plist */,
 			);
 			path = "bitrise-issue-34";
+			sourceTree = "<group>";
+		};
+		D00B669D1E368C45000016C7 /* dependencies */ = {
+			isa = PBXGroup;
+			children = (
+				D00B669E1E368C7A000016C7 /* AKPickerView.framework */,
+				D00B669F1E368C7A000016C7 /* Alamofire.framework */,
+				D00B66A01E368C7A000016C7 /* AlamofireImage.framework */,
+				D00B66A11E368C7A000016C7 /* CameraKit.framework */,
+				D00B66A21E368C7A000016C7 /* CollapsableTable.framework */,
+				D00B66A31E368C7A000016C7 /* CoreDataStack.framework */,
+				D00B66A41E368C7A000016C7 /* Eureka.framework */,
+				D00B66A51E368C7A000016C7 /* FLAnimatedImage.framework */,
+				D00B66A61E368C7A000016C7 /* GraphQL.framework */,
+				D00B66A71E368C7A000016C7 /* GraphQLMapping.framework */,
+				D00B66A81E368C7A000016C7 /* KeychainAccess.framework */,
+				D00B66A91E368C7A000016C7 /* libPhoneNumberiOS.framework */,
+				D00B66AA1E368C7A000016C7 /* Mixpanel.framework */,
+				D00B66AB1E368C7A000016C7 /* Moya.framework */,
+				D00B66AC1E368C7A000016C7 /* Permission.framework */,
+				D00B66AD1E368C7A000016C7 /* ReactiveCocoa.framework */,
+				D00B66AE1E368C7A000016C7 /* ReactiveMoya.framework */,
+				D00B66AF1E368C7A000016C7 /* ReactiveSwift.framework */,
+				D00B66B01E368C7A000016C7 /* RemoteMapping.framework */,
+				D00B66B11E368C7A000016C7 /* Result.framework */,
+				D00B66B21E368C7A000016C7 /* Rswift.framework */,
+				D00B66B31E368C7A000016C7 /* SVProgressHUD.framework */,
+				D00B66B41E368C7A000016C7 /* SwiftyJSON.framework */,
+				D00B66B51E368C7A000016C7 /* TTTAttributedLabel.framework */,
+			);
+			name = dependencies;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -74,6 +178,7 @@
 				D00B66841E367F7D000016C7 /* Sources */,
 				D00B66851E367F7D000016C7 /* Frameworks */,
 				D00B66861E367F7D000016C7 /* Resources */,
+				D00B66CE1E368CAC000016C7 /* Copy dependencies */,
 			);
 			buildRules = (
 			);
@@ -131,6 +236,47 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		D00B66CE1E368CAC000016C7 /* Copy dependencies */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"$(SRCROOT)/Carthage/Build/iOS/AKPickerView.framework",
+				"$(SRCROOT)/Carthage/Build/iOS/Alamofire.framework",
+				"$(SRCROOT)/Carthage/Build/iOS/AlamofireImage.framework",
+				"$(SRCROOT)/Carthage/Build/iOS/CameraKit.framework",
+				"$(SRCROOT)/Carthage/Build/iOS/CollapsableTable.framework",
+				"$(SRCROOT)/Carthage/Build/iOS/CoreDataStack.framework",
+				"$(SRCROOT)/Carthage/Build/iOS/Eureka.framework",
+				"$(SRCROOT)/Carthage/Build/iOS/FLAnimatedImage.framework",
+				"$(SRCROOT)/Carthage/Build/iOS/GraphQL.framework",
+				"$(SRCROOT)/Carthage/Build/iOS/GraphQLMapping.framework",
+				"$(SRCROOT)/Carthage/Build/iOS/KeychainAccess.framework",
+				"$(SRCROOT)/Carthage/Build/iOS/libPhoneNumberiOS.framework",
+				"$(SRCROOT)/Carthage/Build/iOS/Mixpanel.framework",
+				"$(SRCROOT)/Carthage/Build/iOS/Moya.framework",
+				"$(SRCROOT)/Carthage/Build/iOS/Permission.framework",
+				"$(SRCROOT)/Carthage/Build/iOS/ReactiveCocoa.framework",
+				"$(SRCROOT)/Carthage/Build/iOS/ReactiveMoya.framework",
+				"$(SRCROOT)/Carthage/Build/iOS/ReactiveSwift.framework",
+				"$(SRCROOT)/Carthage/Build/iOS/RemoteMapping.framework",
+				"$(SRCROOT)/Carthage/Build/iOS/Result.framework",
+				"$(SRCROOT)/Carthage/Build/iOS/Rswift.framework",
+				"$(SRCROOT)/Carthage/Build/iOS/SVProgressHUD.framework",
+				"$(SRCROOT)/Carthage/Build/iOS/SwiftyJSON.framework",
+				"$(SRCROOT)/Carthage/Build/iOS/TTTAttributedLabel.framework",
+			);
+			name = "Copy dependencies";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "/usr/local/bin/carthage copy-frameworks";
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		D00B66841E367F7D000016C7 /* Sources */ = {
@@ -260,6 +406,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = KMC5HK5ZC7;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/iOS",
+				);
 				INFOPLIST_FILE = "bitrise-issue-34/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.justinmakaila.bitrise-issue-34";
@@ -273,6 +423,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = KMC5HK5ZC7;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/iOS",
+				);
 				INFOPLIST_FILE = "bitrise-issue-34/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.justinmakaila.bitrise-issue-34";
