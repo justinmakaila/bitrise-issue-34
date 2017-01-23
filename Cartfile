@@ -1,0 +1,90 @@
+# Networking library
+#
+github "Moya/Moya" "master"
+
+
+# A drop-in replacement for UILabel that supports attributes, data detectors, links, and more
+#
+github "TTTAttributedLabel/TTTAttributedLabel"
+
+
+# A clean and lightweight progress HUD for your iOS and tvOS app.
+#
+github "SVProgressHUD/SVProgressHUD"
+
+
+# Collapsable table views made easy
+#
+github "rob-nash/CollapsableTable"
+
+
+# Image caching library
+#
+github "Alamofire/AlamofireImage"
+
+
+# Streams of values over time
+#
+github "ReactiveCocoa/ReactiveCocoa" "master"
+
+
+# Declarative and functional table view based forms
+#
+github "xmartlabs/Eureka" ~> 2.0
+
+
+# A camera framework
+#
+github "Present-Inc/CameraKit" ~> 1.9
+
+github "wellth-app/CoreDataStack" ~> 1.0
+
+
+# Provides strong typed, autocompleted resources like images, fonts, and segues in Swift projects
+#
+github "mac-cain13/R.swift.Library"
+
+
+# Swift implementation of GraphQL
+#
+github "justinmakaila/Swift-GraphQL" ~> 1.0
+
+
+# Simple mapping from remote representations to CoreData
+#
+github "justinmakaila/GraphQLMapping" "1.0.0"
+
+
+# Simplified JSON
+#
+github "SwiftyJSON/SwiftyJSON" "master"
+
+
+# Port of Google's libPhoneNumber
+#
+github "iziz/libPhoneNumber-iOS"
+
+
+# Mixpanel
+#
+github "mixpanel/mixpanel-iphone" "master"
+
+
+# A simple yet customizable horizontal picker view
+#
+github "justinmakaila/AKPickerView-Swift" "swift-3"
+
+
+# Performant animated GIF engine for iOS
+#
+github "Flipboard/FLAnimatedImage"
+
+
+# Simple Swift wrapper for Keychain that works on iOS and OS X
+#
+github "kishikawakatsumi/KeychainAccess"
+
+
+# A unified API to ask for permissions on iOS
+#
+github "delba/Permission" == 2.0.1
